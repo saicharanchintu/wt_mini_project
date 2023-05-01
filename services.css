@@ -1,0 +1,50 @@
+#services-btn1 {
+    margin-top: 60px;
+}
+
+#services-btn2 {
+    margin-top: 10px;
+}
+
+#services-btn3 {
+    margin-top: 10px;
+}
+
+.img-fluid {
+    width: 100%;
+    height: 230px;
+}
+
+.font-css {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.content {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.policy {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.footer-copyright {
+    font-size: 13px;
+}
+
+.icon-css {
+    font-size: 25px;
+    margin: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #FDBA3D, #F03F35, #310E5F);
+}
